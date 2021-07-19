@@ -1,5 +1,3 @@
-$(function(){
-
 	// Cache some selectors
 
 	var clock = $('#clock'),
