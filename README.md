@@ -65,4 +65,4 @@ Note: Don't forget to import javascript, or else it won't load this script `<scr
 
 ## Usage
 
-Feel free to `copy and code`, but be sure to give me credit for the base code!
+Feel free to `copy any code`, but be sure to give me credit for the base code!
