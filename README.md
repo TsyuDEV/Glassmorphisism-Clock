@@ -2,8 +2,6 @@
 
 **Note:** This Project uses [Javascript](https://www.javascript.com/).
 
-? style=flat-square&logo=appveyor
-
 This repo contains an example of a Glass Digital Clock
 
 ## Features
